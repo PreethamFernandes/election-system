@@ -44,22 +44,22 @@
         <div id="item">
             <h1 name="name">Sam</h1>
             <img src="image.jpg" width="100" alt="">
-            <input name="participant" type="checkbox" value="a">
+            <input name="participant" type="radio" value="a">
         </div>
         <div id="item">
             <h1 name="name">Daniel</h1>
             <img src="image.jpg" width="100" alt="">
-            <input name="participant" type="checkbox" value="b">
+            <input name="participant" type="radio" value="b">
         </div>
         <div id="item">
             <h1 name="name">Sanvi</h1>
             <img src="image.jpg" width="100" alt="">
-            <input name="participant" type="checkbox" value="c">
+            <input name="participant" type="radio" value="c">
         </div>
         <div id="item">
             <h1 name="name">Sahil</h1>
             <img src="image.jpg" width="100" alt="">
-            <input name="participant" type="checkbox" value="d">
+            <input name="participant" type="radio" value="d">
         </div>
 
         <input type="submit" class="btn btn-success">
